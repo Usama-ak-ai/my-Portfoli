@@ -1,0 +1,20 @@
+# Python
+*.pyc
+__pycache__/
+
+# Virtual Environment
+.vscode/
+.env
+.venv/
+venv/
+
+# Pipenv
+Pipfile.lock
+
+# Django
+db.sqlite3
+/staticfiles/
+/media/
+
+# System
+.DS_Store
